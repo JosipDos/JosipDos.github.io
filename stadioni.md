@@ -3,8 +3,7 @@ layout: default
 title: "Stadioni"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+Stadion A
+Stadion B
+Stadion C
+Stadion D
