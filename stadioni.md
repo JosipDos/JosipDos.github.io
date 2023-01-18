@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Stadioni0"
+title: "Stadioni"
 ---
 
 {% if site.show_excerpts %}
