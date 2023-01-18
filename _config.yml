@@ -18,7 +18,7 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://josipdos.github.io/", title: "Općenito", icon: home}
   - {file: "stadioni.md", title: "Stadioni", icon: flag}
-  - {file: "utakmice.md", title: "Utakmice", icon: clock}
+  - {file: "utakmice.md", title: "Utakmice", icon: home}
   - {file: "simboli.md", title: "Simboli", icon: smile}
   - {file: "kontroverze.md", title: "Kontoverze", icon: search}
   - {url: "linkovi.md", title: "Linkovi", icon: link}
