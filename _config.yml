@@ -10,16 +10,16 @@ date_format: "%B %d, %Y"
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/stadioni.pdf", title: "Stadioni", icon: stadium}
-  - {file: "README.md", title: "Utakmice", icon: ball}
-  - {file: "/simboli.pdf", title: "Simboli", icon: smile}
-  - {file: "/kontroverze.pdf", title: "Kontoverze", icon: search}
+  - {file: "/stadioni.md", title: "Stadioni", icon: stadium}
+  - {file: "7utakmice.md", title: "Utakmice", icon: ball}
+  - {file: "/simboli.md", title: "Simboli", icon: smile}
+  - {file: "/kontroverze.md", title: "Kontoverze", icon: search}
   - {url: "https://josipdos.github.io/", title: "Linkovi", icon: link}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
