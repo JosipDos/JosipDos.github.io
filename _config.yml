@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "Utakmice", icon: ball}
   - {file: "/simboli.pdf", title: "Simboli", icon: smile}
   - {file: "/kontroverze.pdf", title: "Kontoverze", icon: search}
-  - {url: "https://github.com/JosipDos", title: "Linkovi", icon: link}
+  - {url: "https://josipdos.github.io/", title: "Linkovi", icon: link}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:josip.dosen@skole.hr"}
