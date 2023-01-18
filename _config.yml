@@ -16,14 +16,17 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Stadioni"}
-  - {file: "README.md", title: "Utakmice"}
+  - {file: "/stadioni.pdf", title: "Stadioni", icon: stadium}
+  - {file: "README.md", title: "Utakmice", icon: ball}
+  - {file: "/simboli.pdf", title: "Simboli", icon: smile}
+  - {file: "/kontroverze.pdf", title: "Kontoverze", icon: search}
+  - {url: "https://github.com/JosipDos", title: "Linkovi", icon: link}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:josip.dosen@skole.hr"}
   - {title: Github, icon: github, url: "https://github.com/JosipDos"}
   - {title: Instagram, icon: instagram, url: "https://www.instagram.com/dosen.josip/"}
-
+  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
