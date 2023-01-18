@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://josipdos.github.io/", title: "Općenito", icon: cup}
-  - {file: "stadioni.md", title: "Stadioni", icon: arena}
-  - {file: "utakmice.md", title: "Utakmice", icon: football}
+  - {url: "https://josipdos.github.io/", title: "Općenito", icon: home}
+  - {file: "stadioni.md", title: "Stadioni", icon: flag}
+  - {file: "utakmice.md", title: "Utakmice", icon: ticket}
   - {file: "simboli.md", title: "Simboli", icon: smile}
   - {file: "kontroverze.md", title: "Kontoverze", icon: search}
   - {url: "linkovi.md", title: "Linkovi", icon: link}
