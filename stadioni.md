@@ -3,7 +3,11 @@ layout: default
 title: "Stadioni"
 ---
 
-Stadion A
-Stadion B
-Stadion C
-Stadion D
+Al Bayt Stadium 
+Khalifa International Stadium 
+Al Thumama Stadium 
+Ahmed Bin Ali Stadium 
+Lusail Stadium
+Stadium 974 
+Education City Stadium  
+Al Janoub Stadium
