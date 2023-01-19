@@ -3,7 +3,4 @@ layout: default
 title: "Kontroverze"
 ---
 
-Kontroverze su bile
-1
-2
-3
+Kontroverze su bile previše poginulih radnika na gradilištu stadiona.
