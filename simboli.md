@@ -3,4 +3,4 @@ layout: default
 title: "Home"
 ---
 
-Simboli je: La'eeb
+Simbol je: La'eeb
